@@ -1,11 +1,20 @@
-h1 {
-    color: lightsalmon;
-}
-
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1 {
+    color: lightsalmon;
+}
+
+h2 {
+    color: darkorange;
+}
+
 p {
     color: darkslategrey;
+}
+
+li {
+    background-color: darkkhaki;
+    color: firebrick;
 }
